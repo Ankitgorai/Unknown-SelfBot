@@ -9,7 +9,7 @@ DEVELOPERS
 - unknown.4sure.#0
 
 # SUPPORT SERVER 
-- [CoderZ](https://discord.gg/coderz)
+- https://discord.gg/coderz
 
 COMMANDS :-
 -------------
